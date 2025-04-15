@@ -1,0 +1,1 @@
+print("no homework just intall debian and virtual box thats it")
